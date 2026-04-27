@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="estiloindex1.css">
 <style>
 .testbtn {
-  background-color: #04AA6D;
+  background-color: #0000CD;
   color: white;
   font-size: 15px;
   padding: 12px;
@@ -17,7 +17,7 @@
 }
 
 .testbtn:hover {
-  background-color: #059862;
+  background-color: #191970;
 }
 </style>
 </head>
