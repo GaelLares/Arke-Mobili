@@ -36,7 +36,7 @@
 <h2>Acerca de nosotros</h2>
 <p>Somos una empresa enfocada en la creacion de salas</p>
 <iframe src="anuncio gael.png" title="Publicidad"></iframe>
-<button class="testbtn">Green Button</button>
+<button class="testbtn">Click Aqui</button>
 </div>
 <div>&copy; Todos los derechos reservados</div>
 </body>
