@@ -3,8 +3,23 @@
 <head>
 <title>ArkeMobili</title>
 <meta charset="UTF-8">
+<link rel="icon" type="image/x-icon" href="Faviconn.ico">
+<link rel="stylesheet" href="estiloindex1.css">
+<style>
+.testbtn {
+  background-color: #04AA6D;
+  color: white;
+  font-size: 15px;
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
 
-<link rel="stylesheet" href="C:\Users\PROPIETARIO\Desktop\estiloindex1.css">
+.testbtn:hover {
+  background-color: #059862;
+}
+</style>
 </head>
 <body>
 <div>
@@ -17,8 +32,11 @@
 </ul>
 </div>
 <div>
+<img src="imagen.jpg" alt="Italian Trulli">
 <h2>Acerca de nosotros</h2>
 <p>Somos una empresa enfocada en la creacion de salas</p>
+<iframe src="anuncio gael.png" title="Publicidad"></iframe>
+<button class="testbtn">Green Button</button>
 </div>
 <div>&copy; Todos los derechos reservados</div>
 </body>
