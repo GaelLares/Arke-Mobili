@@ -7,15 +7,15 @@
 
 body {
   font-family: 'Helvetica Neue', Arial, -apple-system, sans-serif;
-  background-color: #fcfbfa;
-  color: #1a1a1a;
+  background-color: #4682b4;
+  color: #add8e6;
   line-height: 1.6;
   padding: 40px 10%;
 
 
 body > div:first-of-type {
   display: block;
-  border-bottom: 1px solid #eae6e1;
+  border-bottom: 1px solid #191970;
   padding-bottom: 20px;
   margin-bottom: 40px;
 }
@@ -27,7 +27,7 @@ h1 {
   letter-spacing: 1.5px;
   text-transform: uppercase;
   margin-bottom: 15px;
-  color: #111;
+  color: #00008b;
 }
 
 
@@ -43,7 +43,7 @@ ul li {
 
 ul li a {
   text-decoration: none;
-  color: #706e6b; 
+  color: #000000; 
   font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
@@ -52,7 +52,7 @@ ul li a {
 }
 
 ul li a:hover {
-  color: #1a1a1a; 
+  color: #000080; 
 }
 
 
@@ -82,7 +82,7 @@ h2 {
 
 p {
   font-size: 15px;
-  color: #55524e;
+  color: #000000;
   margin-bottom: 30px;
   font-weight: 300;
 }
@@ -102,8 +102,8 @@ iframe {
 
 .testbtn {
   display: inline-block;
-  background-color: #1a1a1a !important; 
-  color: #ffffff !important;
+  background-color: #0000cd !important; 
+  color: #00008b !important;
   font-size: 13px !important;
   font-weight: 600;
   text-transform: uppercase;
